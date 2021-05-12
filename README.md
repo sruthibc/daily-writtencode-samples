@@ -1,1 +1,1 @@
-The way I write the code on daily basis
+daily basis code sample
