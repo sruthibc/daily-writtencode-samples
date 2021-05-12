@@ -1,1 +1,1 @@
-# daily-writtencode-samples
+The way I write the code on daily basis
